@@ -1,4 +1,5 @@
-📩 Clarifly | Professional Correspondence Tool
+# 📩 Clarifly | Professional Correspondence Tool
+
 Clarifly is an enterprise-grade communication tool designed to bridge the gap between consumer dissatisfaction and corporate resolution. By leveraging the Gemini 2.5 Flash Large Language Model, Clarifly transforms unstructured user grievances into formal, high-impact correspondence suitable for executive-level review.
 
 Executive Summary
